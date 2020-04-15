@@ -1,0 +1,12 @@
+public class test1 extends App {
+    public test1(int test) {
+        super(test);
+    }
+
+    public static void main(String[] args) {
+
+            App f=new App(7);
+            f.auss();
+
+    }
+}
